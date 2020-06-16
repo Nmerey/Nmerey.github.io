@@ -4,10 +4,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 .projects .fa {
+  margin-right: 1rem;
   font-size: 2rem;
 }
 .contacts .fa {
-  margin-right: 1rem;
   font-size: 2rem;
   color: rgb(200,30,30);
   margin-top: 1rem;
